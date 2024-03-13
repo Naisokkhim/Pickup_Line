@@ -1,0 +1,200 @@
+
+{
+  "pickupLines": [
+    {
+      "line": "Are you a magician? Because whenever I look at you, everyone else disappears.",
+      "sticker": "🎩",
+      "title": "Magic"
+    },
+    {
+      "line": "Do you have a name, or can I call you mine?", 
+      "sticker": "💍",
+      "title": "Commitment"      
+    },
+    {
+      "line": "Are you made of copper and tellurium? Because you're Cu-Te.",
+      "sticker": "🧪",
+      "title": "Chemistry"
+    },
+    {
+      "line": "Do you believe in love at first sight, or should I walk by again?",
+      "sticker": "❤️", 
+      "title": "Love at first sight"
+    },
+    {
+      "line": "Is your name Google? Because you have everything I've been searching for.",
+      "sticker": "🔍",
+      "title": "Soulmate"
+    },
+    {
+      "line": "If you were a vegetable, you'd be a cute-cumber.",
+      "sticker": "🥒",
+      "title": "Cute"
+    },    
+    {
+      "line": "Excuse me, but I think you dropped something: MY JAW!",
+      "sticker": "😮",
+      "title": "Beauty"
+    },
+    {
+      "line": "Are you a bank loan? Because you have my interest.",    
+      "sticker": "💰",
+      "title": "Finance"
+    },
+    {
+      "line": "Do you have a map? Because I just got lost in your eyes.",
+      "sticker": "🗺",
+      "title": "Eyes" 
+    },
+    {
+      "line": "Is your dad a boxer? Because you're a knockout.",
+      "sticker": "🥊",
+      "title": "Attractive"
+    },
+    {
+      "line": "Are you a time traveler? Because I see you in my future.",
+      "sticker": "⌛",
+      "title": "Destiny"
+    },
+    {
+      "line": "If beauty were time, you'd be an eternity.",
+      "sticker": "⏳",
+      "title": "Beautiful"
+    },
+    {
+      "line": "Are you a camera? Every time I look at you, I smile.",  
+      "sticker": "📸",
+      "title": "Happiness"
+    },
+    {
+      "line": "If you were a fruit, you'd be a fineapple.",
+      "sticker": "🍍",
+      "title": "Fine"      
+    },
+    {
+      "line": "Is your name Wi-fi? Because I'm really feeling a connection.",
+      "sticker": "💻",
+      "title": "Connection"
+    },
+    {
+      "line": "Do you have a sunburn, or are you always this hot?",
+      "sticker": "🔥",
+      "title": "Hot"
+    },
+    {
+      "line": "Are you a campfire? Because you're hot and I want s'more.",
+      "sticker": "🥫",
+      "title": "Attraction"      
+    },
+    {
+      "line": "If I were a cat, I'd spend all 9 lives with you.",
+      "sticker": "🐱",
+      "title": "Commitment"
+    },
+    {
+      "line": "Is your name Chapstick? Because you're da balm.",
+      "sticker": "💋",
+      "title": "Kissable lips"      
+    },
+    {
+      "line": "Are you a banana? Because I find you a-peeling.",
+      "sticker": "🍌",
+      "title": "Appealing"
+    },
+    {
+      "line": "Do you have a Band-Aid? Because I just scraped my knee falling for you.",
+      "sticker": "💘",
+      "title": "Falling for you"
+    },
+    {
+      "line": "Are you a parking ticket? Because you've got 'FINE' written all over you.",
+      "sticker": "📄",
+      "title": "Fine"
+    },
+    {
+      "line": "Can I follow you where you go? Because my parents always told me to follow my dreams.",
+      "sticker": "👣",
+      "title": "Following dreams"
+    },  
+    {
+      "line": "If I could rearrange the alphabet, I'd put U and I together.",
+      "sticker": "💌",
+      "title": "Us together"      
+    },
+    {
+      "line": "Are you a cat? Because you're purrfect to me.",
+      "sticker": "😸",
+      "title": "Purrfect"
+    },
+    {
+      "line": "Are you a bank loan? Because you have my interest.",
+      "sticker": "💰",
+      "title": "Finance"
+    },
+    {
+      "line": "I must be a snowflake because I've fallen for you.", 
+      "sticker": "❄️",
+      "title": "Fallen for you"
+    },
+    {
+      "line": "Excuse me, but I think you dropped something: MY JAW!",
+      "sticker": "😮",
+      "title": "Beauty" 
+    },
+    {
+      "line": "If beauty were time, you'd be an eternity.",
+      "sticker": "⏳",
+      "title": "Beautiful"
+    },
+    {
+      "line": "Are you a parking ticket? Because you've got 'FINE' written all over you.",
+      "sticker": "📄",  
+      "title": "Fine"
+    },
+    {
+      "line": "Do you have a map? Because I just got lost in your eyes.",
+      "sticker": "🗺",
+      "title": "Eyes"
+    },
+    {
+      "line": "Is your dad a boxer? Because you're a knockout.",
+      "sticker": "🥊",
+      "title": "Attractive" 
+    },
+    {
+      "line": "Do you have a name, or can I call you mine?",
+      "sticker": "💍",
+      "title": "Commitment"
+    },
+    {
+      "line": "Are you made of copper and tellurium? Because you're Cu-Te.",
+      "sticker": "🧪",
+      "title": "Chemistry"
+    },
+    {
+      "line": "Do you believe in love at first sight, or should I walk by again?",
+      "sticker": "❤️",
+      "title": "Love at first sight"
+    },
+    {
+      "line": "Is your name Google? Because you have everything I've been searching for.", 
+      "sticker": "🔍",
+      "title": "Soulmate"
+    },
+    {
+      "line": "If you were a vegetable, you'd be a cute-cumber.",
+      "sticker": "🥒",
+      "title": "Cute"
+    },
+    {
+      "line": "Excuse me, but I think you dropped something: MY JAW!",
+      "sticker": "😮",
+      "title": "Beauty"
+    },
+    {
+      "line": "Are you a bank loan? Because you have my interest.",
+      "sticker": "💰",
+      "title": "Finance" 
+    }
+  ]
+}
